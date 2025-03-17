@@ -35,6 +35,23 @@ Bu Chrome eklentisi, Twitter'da çeşitli otomatik işlemleri gerçekleştirmeni
   - Otomatik beğeni sırasında "Yeni gönderiler var" bildirimi algılanır
   - Otomatik olarak en başa dönülür ve beğeni işlemi devam eder
 
+## Sistem Gereksinimleri
+
+- **Tarayıcı:** Google Chrome 88 veya daha yeni sürüm
+- **İşletim Sistemi:** 
+  - Windows 10 veya daha yeni
+  - macOS 10.13 veya daha yeni
+  - Linux (Ubuntu 18.04+, Debian 10+, Fedora 30+)
+- **Donanım:**
+  - Minimum 4 GB RAM
+  - Minimum 1 GHz işlemci
+  - En az 50 MB boş disk alanı
+- **İnternet Bağlantısı:** Stabil internet bağlantısı (minimum 1 Mbps)
+- **Diğer Gereksinimler:**
+  - Twitter/X hesabı
+  - JavaScript'in tarayıcıda etkin olması
+  - Çerezlerin etkin olması
+
 ## Kurulum
 
 1. Chrome tarayıcınızda `chrome://extensions/` adresine gidin
@@ -69,4 +86,4 @@ Destek ve daha fazla bilgi için:
 - **Telefon:** 0850 307 34 58
 - **WhatsApp:** 0850 307 34 58
 
-© 2025 EKA Yazılım. Tüm hakları saklıdır.
+ 2025 EKA Yazılım. Tüm hakları saklıdır.
